@@ -1,5 +1,8 @@
+#repository or folder
 build/
 
+# text file
 secret.txt
 
+# all logs file and the file to come
 *.log
