@@ -6,3 +6,6 @@ secret.txt
 
 # all logs file and the file to come
 *.log
+
+#text file
+hi.txt
